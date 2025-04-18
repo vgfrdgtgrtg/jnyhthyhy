@@ -55,8 +55,3 @@ VyprVPN seems to be a fantastic VON service that gives you the most private inte
   &copy; 2021 Tien Huynh tienhuynh-tn
 </div>
 
-------
-
-Credit: [tienhuynh-tn](https://github.com/tienhuynh-tn)
-
-Last Edited on: 22/12/2021
